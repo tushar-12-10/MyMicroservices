@@ -7,5 +7,8 @@ public class Hello {
 
         System.out.println("hello microservices 2  java ");
 
+        System.out.println("hello microservices 3  java ");
+
+
     }
 }
